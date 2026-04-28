@@ -1,0 +1,4 @@
+/* dans ce fichier on place le CSS global, par exemple pour la balise body, ou pour tous les h1 du site */
+:root {
+    font-family: 'Roboto', sans-serif;
+}
